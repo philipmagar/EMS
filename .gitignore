@@ -1,0 +1,13 @@
+﻿# Local configuration
+includes/db.php
+.env
+
+# Tools helpers (sensitive)
+tools/create_admin.php
+
+# common
+.vscode/
+vendor/
+node_modules/
+.DS_Store
+*.log
